@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/mario02.unity
+  isLoaded: 1
+  isActive: 1
